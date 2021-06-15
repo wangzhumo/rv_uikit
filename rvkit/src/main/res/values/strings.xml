@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rvkit</string>
+    <string name="comm_empty">没有找到什么东西哦...</string>
+    <string name="comm_error_net">网络出现点小差，点击重试...</string>
+    <string name="comm_loading">正在加载...</string>
+    <string name="comm_no_have_more">没有更多了～</string>
+    <string name="loadmore_empty">暂无数据</string>
+    <string name="loadmore_end">没有更多了～</string>
+    <string name="loadmore_more">点击加载更多</string>
+    <string name="loadmore_more_loading">更多内容加载中...</string>
+    <string name="loadmore_retry">加载失败，点击重新加载</string>
+    <string name="rank_empty">暂无</string>
+</resources>

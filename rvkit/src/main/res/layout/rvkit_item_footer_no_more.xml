@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_footer_height"
+    android:ellipsize="end"
+    android:gravity="center"
+    android:lines="1"
+    android:text="@string/comm_no_have_more"
+    android:textColor="@color/item_footer_bg"
+    android:textSize="@dimen/item_footer_txt_size" />

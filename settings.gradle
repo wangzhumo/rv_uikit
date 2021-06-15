@@ -1,0 +1,3 @@
+rootProject.name = "rv_uikit"
+include ':app'
+include ':rvkit'
